@@ -1,5 +1,5 @@
-#Demo
-
+# Demo
+## substring
 
 
 Introduction to git
